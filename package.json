@@ -1,18 +1,18 @@
 {
   "name": "build-npm-package",
   "description": "npm包构建模板",
-  "version": "0.0.1",
-  "homepage": "https://github.com/leuvi/npm-pkg",
+  "version": "0.0.2",
+  "homepage": "https://github.com/leuvi/npm_package_template",
   "author": {
     "name": "leuvi",
     "email": "528046@qq.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/leuvi/npm-pkg.git"
+    "url": "git://github.com/leuvi/npm_package_template.git"
   },
   "bugs": {
-    "url": "https://github.com/leuvi/npm-pkg/issues"
+    "url": "https://github.com/leuvi/npm_package_template/issues"
   },
   "license": "MIT",
   "licenses": [

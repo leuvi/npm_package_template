@@ -1,12 +1,12 @@
 # npm包构建模板
 
 
-## npm相关命令
+## 相关命令
 
 ```sh
-npm login
-npm publish
-npm unpublish
+npm login      //npm登录
+npm publish    //包上传
+npm unpublish  //撤销发布的包
 ```
 
 ## FAQ
